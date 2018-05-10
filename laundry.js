@@ -43,6 +43,7 @@ function draw() {
   background(255);
   
    image(ac,5,5,825,708);
+ image(ac,6055,5,825,708);
  
   image(la,220,110,380,560);
   
